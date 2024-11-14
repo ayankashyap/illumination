@@ -1,0 +1,3 @@
+[submodule "illuminant_separation"]
+	path = illuminant_separation
+	url = git@github.com:huizhuo1987/illuminant_separation.git
